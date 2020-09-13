@@ -1,4 +1,3 @@
-gem cayman
 # Guides
 This is a repository where I will include each of necessary command I used to configure Ubuntu environment.
 
