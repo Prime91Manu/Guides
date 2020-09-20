@@ -54,5 +54,8 @@ Create the environment from the environment.yml file:
 Verify that the new environment was installed correctly:  
 `conda env list`
 
+## List all environments
+`conda env list`
+
 ## Install Juypiter on a environment
 `conda install -c conda-forge jupyterlab`
