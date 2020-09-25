@@ -59,3 +59,6 @@ Verify that the new environment was installed correctly:
 
 ## Install Juypiter on a environment
 `conda install -c conda-forge jupyterlab`
+
+## Install pandas on a environment
+`conda install pandas`
