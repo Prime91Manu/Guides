@@ -91,15 +91,15 @@ conda remove --name old_name --all # or its alias: `conda env remove --name old_
 
 ## Install Juypiter on a environment
 ```bash
-conda install -c conda-forge jupyterlab`
+conda install -c conda-forge jupyterlab
 ```
 
 ## Install pandas on a environment
 ```bash
-conda install pandas`
+conda install pandas
 ```
 
 ## Install xlrd on a environment
 ```bash
-conda install xlrd`
+conda install xlrd
 ```
