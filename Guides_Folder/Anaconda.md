@@ -94,6 +94,14 @@ conda remove --name old_name --all # or its alias: `conda env remove --name old_
 conda install -c conda-forge jupyterlab
 ```
 
+## Install jupyter_contrib_nbextensions on a environment
+
+This extensions makes collapasable headings
+
+```bash
+conda install -c conda-forge jupyter_contrib_nbextensions
+```
+
 ## Install pandas on a environment
 ```bash
 conda install pandas
