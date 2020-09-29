@@ -111,3 +111,11 @@ conda install pandas
 ```bash
 conda install xlrd
 ```
+## Install matplotlib on a environment
+```bash
+conda install -c conda-forge matplotlib
+```
+## Install matplotlib on a environment
+```bash
+conda install -c anaconda seaborn
+```
